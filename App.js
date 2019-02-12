@@ -24,6 +24,7 @@ export default class App extends Component<Props> {
       <View style={styles.container}>
         <Text style={styles.welcome}>Test Branch!</Text>
         this is test
+        added this
       </View>
     );
   }
